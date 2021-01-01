@@ -103,6 +103,17 @@ a{
     }
 }
 
-li{
+.skills li{
     list-style: none;
+}
+.contact a{
+    color: azure;
+}
+.section-3{
+    color: aliceblue;
+    display: inline-block;
+}
+
+div.section-1 a {
+    color: #fff;
 }
